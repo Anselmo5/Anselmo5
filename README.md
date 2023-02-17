@@ -12,5 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-          
+
+
+<div align="center">
+  <a href="https://github.com/Anselmo5">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlespsc&show_icons=true&theme=dark&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlespsc&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlespsc&layout=compact&langs_count=7&theme=dark"/>
+</div>
