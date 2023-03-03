@@ -22,18 +22,13 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-
- <img align="center" alt="Anselmo5-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-          
- <img align="center" alt="Anselmo5-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img align="center" alt="Anselmo5-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  
->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,linkedin,netlif,vscode)](https://skillicons.dev)
 
   </div>
    
   <div>
   <a https://https://www.linkedin.com/notifications/?filter=all/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-  
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
   </div>
