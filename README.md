@@ -14,12 +14,12 @@ Me chamo Anselmo e estou no terceiro ano do ensino medio do Senia cursando desen
 
 <div>
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,linkedin,netlif,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,linkedin,netlif,vscode,netlify)](https://skillicons.dev)
 
   </div>
    
   <div>
   <a https://https://www.linkedin.com/notifications/?filter=all/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,)](https://skillicons.dev)
   
   </div>
