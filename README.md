@@ -1,6 +1,6 @@
 HELLO DEVS
 
-Me chamo Anselmo e estou no terceiro ano do ensino medio do Senia cursando desenvolvimento de sistemas
+Me chamo Anselmo e estou no terceiro ano do ensino medio no Senai cursando desenvolvimento de sistemas
 
 
 
