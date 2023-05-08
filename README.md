@@ -14,7 +14,7 @@ Me chamo Anselmo e estou no terceiro ano do ensino medio no Senai cursando desen
 
 <div>
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,linkedin,netlif,vscode,netlify,react,typescript,angular,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,github,linkedin,netlif,vscode,netlify,)](https://skillicons.dev)
 
   </div>
    
