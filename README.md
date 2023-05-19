@@ -15,9 +15,6 @@ Olá Devs, Me chamo Anselmo Henrique e<br>Atualmente Estou no Terceirão no Sesi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anselmo5&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anselmo5&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Anselmo5&icon=9&color=0)](https://visitcount.itsvg.in)
 
