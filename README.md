@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá Devs, Me chamo Anselmo Henrique e<br>Atualmente Estou no Terceirão no Sesi Senai.<br>Tenho Como Objetivo Me Tornar Um Desenvolvedor Web Full Stack<br><br>
+Olá Devs, Me chamo Anselmo Henrique e<br>Atualmente Estou no Terceirão no Sesi Senai.<br>Tenho Como Objetivo Me Tornar Um Desenvolvedor Web<br><br>
 
 
 
