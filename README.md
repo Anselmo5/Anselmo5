@@ -1,4 +1,7 @@
-#🧔‍♂️ person 
+<img width="100%" src="https://github.com/user-attachments/assets/f9c580e8-5691-492a-9d8f-ad1536bc6a55">
+
+
+# 🧔‍♂️ About me
 
 Hello Devs, Anselmo Henrique called me and I'm currently studying systems analysis and development.
 I've been studying in this area for three years and my goal is to become a full stack web developer.
